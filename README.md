@@ -15,7 +15,7 @@
 
 ## 项目简介
 
-WebStack-vue3 ，重构自[WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master)（由于原项目已停止更新且本人无法运行，该项目也属于WebStack生态一员），是一个开箱即用的网址导航站点模板，可通过VUE3脚手架一键生成导航网站内容。所有导航内容均通过配置文件（data.json）集中管理，支持分组、多级分类、图标、描述、多语言等。
+TideStack (WebStack-vue3) ，重构自[WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master)（由于原项目已停止更新且本人无法运行，该项目也属于WebStack生态一员），是一个开箱即用的网址导航站点模板，可通过VUE3脚手架一键生成导航网站内容。所有导航内容均通过配置文件（data.json）集中管理，支持分组、多级分类、图标、描述、多语言等。
 
 ## 主要特性
 
@@ -139,9 +139,9 @@ MIT
 ## 鸣谢/参考
 
 - [WebStackPage](https://github.com/WebStackPage/WebStackPage.github.io) 万恶之源（什）
-- [WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master) 由于原项目已经停止更新，所以才有了本项目
-- [Viggoz](http://www.viggoz.com) 原作者
-- [Anjaxs](https://github.com/Anjaxs) vue版本原作者
+- [WebStack-Vue](https://github.com/Anjaxs/WebStack-vue/tree/master) Vue 版本原作者
+- [mastwet](https://github.com/mastwet) 当前维护者
+- [Anjaxs](https://github.com/Anjaxs) Vue 版本原作者
 - 以及所有开源贡献者
 
 ## TODO
