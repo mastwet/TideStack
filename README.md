@@ -11,7 +11,9 @@
   <img src="src/assets/images/webstack_banner_cn.png" alt="WebStack Banner" width="600"/>
 </p>
 
-> 一个基于 Vue 3 + Vite 的极简美观网址导航项目，支持通过配置文件一键管理侧边栏和主页内容。
+> 一个基于 Vue 3 + Vite + Element Plus 的极简美观网址导航项目，支持通过配置文件一键管理侧边栏和主页内容。
+> 好消息！目前TideStack已经完全迁移至ElementUI！界面更美观了！
+> 如果你给个star，作者就继续开发~
 
 ## 项目简介
 
@@ -19,7 +21,7 @@ TideStack (WebStack-vue3) ，重构自[WebStack-Vue](https://github.com/Anjaxs/W
 
 ## 主要特性
 
-- 🚀 基于 Vue 3 + Vite，极速开发体验
+- 🚀 基于 Vue 3 + Vite + ElementPlus，极速开发体验
 - 🗂️ 所有导航内容均通过 data.json 配置，维护简单
 - 🧩 侧边栏与主页内容完全同步，递归支持多级分组
 - 🌏 支持中英文切换
